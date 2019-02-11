@@ -16,4 +16,4 @@ what went well:
 using 3d assets was fun and I could express myself in the assignment. i was also able to add animations to the 3D assets.
 
 the url to github:
-https://github.com/TubeStorm/Assignment_2.git
+https://github.com/TubeStorm/FavourDiokpo_A2.git
